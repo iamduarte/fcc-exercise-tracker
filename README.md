@@ -24,12 +24,14 @@ Exercise:
   date: "Mon Jan 01 1990",
   _id: "5fb5853f734231456ccb3b05"
 }
+
 User:
 
 {
   username: "fcc_test",
   _id: "5fb5853f734231456ccb3b05"
 }
+
 Log:
 
 {
@@ -42,6 +44,7 @@ Log:
     date: "Mon Jan 01 1990",
   }]
 }
+
 Hint: For the date property, the toDateString method of the Date API can be used to achieve the expected output.
 
 # Tests
